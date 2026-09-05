@@ -1,0 +1,31 @@
+Langchain is open source framework that helps to build application which are based on LLM.
+LLM models are very very heavy.
+To host LLM model on our own server would require very high compute power.
+This LLM problem is been solved as Big AI companies have hosted this LLM on their own servers and have wrapped it around API.
+
+
+Langchain provides us with plug and play built in Functionality
+Langchain provides complete ecosystem cloud,Database,embedding model etc.
+Running LLM application end to end across different components we use Langchain.
+------------------------------
+Properties of Langchain
+------------------------------
+- concept of chains 
+- Model Agnostic Developments
+- Complete ecosystem
+- Memory and state Handling
+
+
+----------------------------
+Use of Langchain
+----------------------------
+- AI agents
+- Workflow Automation
+- AI knowledge Assistants
+
+
+-----------------------------
+Alternative of Langchain
+-----------------------------
+- Haystack
+- LamaIndex
