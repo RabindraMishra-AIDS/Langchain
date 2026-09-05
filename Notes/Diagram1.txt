@@ -1,0 +1,11 @@
+Brain is used for context aware text generation.
+Here in Diagram 1 we are using Semantic Search to filter out 
+pages from the entire PDF document.
+
+Filtering pages helps us to narrow down the context to the Brain(LLM).
+
+Components:
+1. Database
+2. Embedding
+3. Brain (main LLM)
+4. Retriveal 
